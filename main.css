@@ -1,0 +1,279 @@
+/*
+Project Name: Best Cars
+Client: Your Client
+Author: Fahad Aljobaili
+Developer @Fahad JU
+*/
+
+
+/* Start Coding*/
+/******************************************
+/* SETUP
+/*******************************************/
+
+
+/*****************************/
+/* logo*/
+/*****************************/
+
+.navbar-brand{
+  font-family: 'Saira Stencil One';
+  font-size: 55px;
+color: rgb(10, 1, 0);
+}
+
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+.p-2 bd-highlight{
+  display:flex;
+  background-color: #717682;
+
+
+}
+
+.p-3 bd-highlight{
+  display: flex;
+  display: inline;
+}
+
+.carousel{
+  width: 100%;
+  height: auto;
+}
+
+.carousel-item{
+  width: 100%;
+  height: auto;
+}
+.d-block{
+  width: 300px;
+  height: 300px;
+}
+
+
+#nis-btn{
+  padding:1px 1px 1px 1px;
+  border: none;
+  outline: none;
+  background-color: white;
+  cursor: pointer;
+   color: white;
+  vertical-align: middle;
+  width: 85px;
+  height: 85px;
+  border-radius: 50%;
+
+}
+
+#bmw-btn{
+  padding:1px 1px 1px 1px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+   background-color: rgb(252, 250, 250);
+   color: white;
+  vertical-align: middle;
+  width: 85px;
+  height: 85px;
+  border-radius: 50%;
+}
+
+#por-btn{
+  padding:1px 1px 1px 1px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+   background-color: white;
+   color: white;
+  vertical-align: middle;
+  width: 85px;
+  height: 85px;
+  border-radius: 50%;
+}
+
+.bmw-img{
+  width: 402px;
+    height: auto;
+}
+.por-img{
+  width: 402px;
+    height: auto;
+}
+.nis-img{
+  width: 402px;
+    height: auto;
+}
+.bmw-btn-ph{
+  width: 100px;
+  height: auto;
+}
+.por-btn-ph{
+  width: 100px;
+  height: auto;
+}
+.nis-btn-ph{
+  width:100px;
+  height: auto;
+}
+
+.bmw-p{
+  border-  border-radius: 5%;
+
+  display: flex;
+  background-color:#FDF5D4;
+  font-size: 16px;
+  font-family: 'Sintony';
+}
+
+.por-p{
+  border-radius: 5%;
+
+  display: flex;
+  background-color:#FDF5D4;
+  font-size: 16px;
+  font-family: 'Sintony';
+}
+.nis-p{
+  border-radius: 5%;
+
+  display: flex;
+  background-color:#FDF5D4;
+  font-size: 16px;
+  font-family: 'Sintony';
+}
+
+.por-tit{
+  border-radius: 5%;
+  font-family: 'baloo';
+  background-color:#749BC8;
+color: azure;
+}
+
+.bmw-tit{
+  border-radius: 5%;
+  font-family: 'baloo';
+  background-color:#749BC8;
+color: azure;
+}
+
+.nis-tit{
+  border-radius: 20%;
+  font-family: 'baloo';
+  background-color:#749BC8;
+color: azure;
+}
+/*
+.footer1{
+  display: flex;
+  justify-content: space-between 60px;
+  justify-content: center;
+  background-color: #EA493C;
+  height: 30px;
+}
+*/
+.tw-ph{
+  justify-content: space-between 60px;
+
+  height: 25px;
+  width: 25px;
+
+}
+.e-ph{
+  justify-content: space-between 60px;
+
+  height: 25px;
+  width: 25px;
+
+}
+
+.ins-ph{
+  justify-content: space-around 20px,20px ;
+
+  height: 25px;
+  width: 25px;
+
+}
+
+.last-photo{
+  width: 100%;
+  height: auto;
+}
+
+/*****************************/
+/* fotter */
+/*****************************/
+.footer1{
+  background: #8a8a8a;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  font-family: fantasy;
+  font-size: 13px;
+  color: aliceblue;
+  height: 20px;
+}
+
+}
+
+
+
+
+
+/*****************************/
+/* slide */
+/*****************************/
+
+
+/*****************************/
+/* Photo Gallery */
+/*****************************/
+
+/******************************************
+/* index2
+/*******************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/********************
+/*  END
+/********************
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+/* @media (max-width: 700px) {
+  .row, .navbar {   
+    flex-direction: column;
+  }
+} */
+
+
+
+/******************************************.columnPor {
+  display: none;
+  
+}
